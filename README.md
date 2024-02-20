@@ -1,2 +1,1 @@
-# miniature-pancake
-CSS Assessment_Thinkful
+# starter-pete-thinkful-portfolio
